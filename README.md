@@ -6,7 +6,7 @@ I am an enthuasistic third year IT-engineering student from Finland, and I am ex
 
 Here is my 16-year old cat. Her name is Kisu, and I already miss her so much.
 
-![Kisu](./images/KisuOSS.jpg)
+![Kisu](KisuOSS.jpg)
 
 
 
